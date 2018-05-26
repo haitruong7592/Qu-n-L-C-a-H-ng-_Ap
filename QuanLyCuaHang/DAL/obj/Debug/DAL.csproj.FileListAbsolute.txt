@@ -1,0 +1,7 @@
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\bin\Debug\DAL.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\bin\Debug\DAL.pdb
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\bin\Debug\DTO.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\bin\Debug\DTO.pdb
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\obj\Debug\DAL.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\BUS.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\BUS.pdb
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\DAL.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\DTO.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\DAL.pdb
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\bin\Debug\DTO.pdb
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\obj\Debug\BUS.dll
+D:\Hệ quản trị cơ sở dữ liệu\QuanLyCuaHang\BUS\obj\Debug\BUS.pdb
